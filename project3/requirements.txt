@@ -2,3 +2,4 @@ matplotlib
 jupyter
 scikit-learn
 opendatasets
+torchmetrics
