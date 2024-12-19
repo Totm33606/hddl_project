@@ -1,10 +1,13 @@
-# Project Structure
+# Structure du repository
 
-Please respect the following architecture:
+Voici comment se présente l'architecture des dossiers :
 * project1
+    * example.ipynb
+    * example.pdf
+    * Dockerfile
+    * requirements.txt
 * project2
 * project3
-    * example.py
-    * main.py
+* project4
 
-**Important:** Please do not add data (manually) to the remote repository.
+Les fichiers `Dockerfile` et `requirements.txt` peuvent être utiles si vous souhaitez executer les notebooks avec Docker.
