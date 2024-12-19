@@ -3,7 +3,6 @@
 Voici comment se présente l'architecture des dossiers :
 * project1
     * example.ipynb
-    * example.pdf
     * Dockerfile
     * requirements.txt
 * project2
